@@ -85,8 +85,6 @@ class ClashOfClansCog(commands.Cog):
             if war.state != "notInWar":
                 content += f"Opponent: {war.opponent}"
 
-        await ctx.send(content)
-
 def setup(bot):
     bot.add_cog(General(bot))
 
