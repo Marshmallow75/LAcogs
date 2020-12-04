@@ -15,7 +15,7 @@
 #### Ladder
 ELO leaderboard
 #### Tools
-Various tools including countdown, command to view members with specific role, multi-server ban and more
+Various tools including countdown, a command to view members with a specific role, multi-server ban, and more
 #### Welcome
 Welcoming processes for LA servers
 #### Statistics
